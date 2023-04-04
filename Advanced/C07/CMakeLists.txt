@@ -1,0 +1,8 @@
+add_executable(Intset Intset.cpp)
+add_executable(WordSet WordSet.cpp)
+add_executable(Stlshape Stlshape.cpp)
+add_executable(StringVector StringVector.cpp)
+add_executable(FEditTest FEditTest.cpp FileEditor.cpp)
+add_executable(Apply Apply.cpp)
+add_executable(Reversible Reversible.cpp)
+add_executable(Inserters Inserters.cpp)

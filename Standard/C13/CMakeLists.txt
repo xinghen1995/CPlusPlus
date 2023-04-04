@@ -1,0 +1,3 @@
+add_executable(MallocClass MallocClass.cpp)
+add_executable(NewAndDelete NewAndDelete.cpp)
+add_executable(BadVoidPointerDeletion BadVoidPointerDeletion.cpp)

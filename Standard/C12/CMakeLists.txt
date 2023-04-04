@@ -1,0 +1,8 @@
+add_executable(OperatorOverloadingSyntax OperatorOverloadingSyntax.cpp)
+add_executable(OperatorOverloadingUnaryOperators OperatorOverloadingUnaryOperators.cpp)
+add_executable(IntegerTest IntegerTest.cpp Integer.cpp)
+add_executable(ByteTest ByteTest.cpp)
+add_executable(OverloadingOperatorComma OverloadingOperatorComma.cpp)
+add_executable(SmartPointer SmartPointer.cpp)
+add_executable(NestedSmartPointer NestedSmartPointer.cpp)
+add_executable(PointerToMemberOperator PointerToMemberOperator.cpp)

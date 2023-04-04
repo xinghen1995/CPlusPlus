@@ -1,0 +1,7 @@
+add_subdirectory(C02)
+add_subdirectory(C03)
+add_subdirectory(C04)
+add_subdirectory(C05)
+add_subdirectory(C06)
+add_subdirectory(C07)
+add_subdirectory(C09)

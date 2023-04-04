@@ -1,0 +1,6 @@
+add_executable(Array Array.cpp)
+add_executable(Array2 Array2.cpp)
+add_executable(StackTemplateTest StackTemplateTest.cpp fibonacci.cpp)
+add_executable(Array3 Array3.cpp)
+add_executable(TStackTest TStackTest.cpp)
+add_executable(IterIntStack IterIntStack.cpp fibonacci.cpp)

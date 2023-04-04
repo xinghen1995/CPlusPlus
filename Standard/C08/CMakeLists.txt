@@ -1,0 +1,5 @@
+add_executable(ConstMember ConstMember.cpp)
+add_executable(Quoter Quoter.cpp)
+add_executable(Mutable Mutable.cpp)
+add_executable(Castaway Castaway.cpp)
+add_executable(Volatile Volatile.cpp)
